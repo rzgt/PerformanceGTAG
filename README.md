@@ -8,8 +8,8 @@ this mod only works with the most updated version of Utilla.dll you can find thi
 
 discord.gg/YzyJpynNt : if you need to fix general problems
 
-message me on discord: / reignhz / if you need to fix specific problems
+message me on discord: / kurwaaaaaaaaaaaaaaaaaaaaaaaaaa / if you need to fix specific problems
 
-mod made by n/a , updated by @reignhz and checked by virustotal
+mod made by n/a , updated by @rzgt and checked by virustotal
 
 virustotal: virustotal.com/gui/file/c489bc488828e5418bf85e29515bac8406a21c099ebfd4203e220ab566e1bbec
