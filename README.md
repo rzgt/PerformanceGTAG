@@ -12,4 +12,4 @@ message me on discord: / reignhz / if you need to fix specific problems
 
 mod made by n/a , updated by @reignhz and checked by virustotal
 
-virustotal: https://www.virustotal.com/gui/file/c489bc488828e5418bf85e29515bac8406a21c099ebfd4203e220ab566e1bbec
+virustotal: virustotal.com/gui/file/c489bc488828e5418bf85e29515bac8406a21c099ebfd4203e220ab566e1bbec
